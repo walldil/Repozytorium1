@@ -1,8 +1,6 @@
-to jest początek notatki
 
 ========ROZDZIAL 1=========
+
 Git jest systemem kontroli wersji
 pozwala na zdalne pracowanie z dokumentami
-oraz kodem.
-
-git init - inicjalizacja repozytorium
+orza kodem.
